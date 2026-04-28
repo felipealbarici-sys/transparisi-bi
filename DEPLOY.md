@@ -158,3 +158,4 @@ Para a Transparisi, esses limites são mais que suficientes.
 - Documentação Supabase: https://supabase.com/docs
 - Documentação Vercel: https://vercel.com/docs
 - Dúvidas sobre este projeto: consulte seu suporte técnico
+# Transparisi BI
